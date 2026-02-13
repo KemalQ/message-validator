@@ -1,4 +1,4 @@
-package com.example;
+package com.example.validation;
 
 /**
  * Маркер + источник "человеческого" имени типа для логов/ошибок.
