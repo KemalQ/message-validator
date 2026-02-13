@@ -117,12 +117,12 @@ Done.
 
 # 🛠 Design Principles
 
--No infrastructure dependency
+- No infrastructure dependency
 
--Interface-based contract
+- Interface-based contract
 
--Manual validation control
+- Manual validation control
 
--Reusable across services
+- Reusable across services
 
--Works with and without Spring
+- Works with and without Spring
